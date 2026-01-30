@@ -1,0 +1,4 @@
+# SQLite connection methods:
+# Python: sqlite3.connect('myapp.db')
+# Connection string: sqlite:////home/kavia/workspace/code-generation/interactive-trivia-challenge-207920-207931/database/myapp.db
+# File path: /home/kavia/workspace/code-generation/interactive-trivia-challenge-207920-207931/database/myapp.db
